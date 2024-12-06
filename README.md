@@ -37,5 +37,7 @@ This repository is a Power BI Dashboard decsribing the characteristics and insig
     - The final dashboard has all the above mentioned visualizations.
 
       FINAL DASHBOARD :
+
+      
       <img width="506" alt="image" src="https://github.com/user-attachments/assets/6aa059b2-0b66-46e4-ae79-e5655af76ca9">
 
