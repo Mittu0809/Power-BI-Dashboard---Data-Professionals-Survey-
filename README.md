@@ -7,7 +7,7 @@ This repository is a Power BI Dashboard decsribing the characteristics and insig
   * Date Taken (America/New_York) : Date on which survey was taken
   * Time Taken (America/New_York) : Time on which survey was taken
   * Browser : Blank column
-  * OS : 
+  * OS : Blank column
   * City : Blank column
   * Country : Blank column
   * Referrer : Blank column
