@@ -34,4 +34,8 @@ This repository is a Power BI Dashboard decsribing the characteristics and insig
     - Secondly cleaned and standardized the data in power query editor. removed and corrected any errors, dealt with blank columns, standardized the values , changed data types, created custom columns
     - Thirdly used the cleaned and standardized data to create visualizations as a dashboard which gives insights and visually compare, contrast and learn about various characteristics. Created visualizations such as Country of Survey Takers (Treemap), Average Salary by Job Title (Stacked bar chart), Count of Survey Takers (Card), Average Age of Survey Taker (Card), Count of Voters by  Favorite Programming Language (stacked column chart), Difficulty to Break Into Data (Donut chart), Happiness with Work/Life Balance (Gauge), Happiness with Salary (Gauge).
    
-    - The final dashboard has all teh above mentioned visualizations. 
+    - The final dashboard has all the above mentioned visualizations.
+
+      FINAL DASHBOARD :
+      <img width="506" alt="image" src="https://github.com/user-attachments/assets/6aa059b2-0b66-46e4-ae79-e5655af76ca9">
+
